@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: Nuxeo Multi Tenant Blob
+Bundle-SymbolicName: org.nuxeo.ecm.multi.tenant.blob;singleton:=true
+Bundle-Version: 0.0.1
+Bundle-Vendor: Nuxeo
+Nuxeo-Component: OSGI-INF/multi-tenant-blob-contrib.xml

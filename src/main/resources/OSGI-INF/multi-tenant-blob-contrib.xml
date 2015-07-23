@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<component name="org.nuxeo.ecm.multi.tenant.blob">
+
+	<extension target="org.nuxeo.ecm.core.blob.BlobManager"
+		point="configuration">
+		<blobdispatcher>
+			<class>org.nuxeo.ecm.multi.tenant.blobs.MultitenantBlobDispatcher</class>
+		</blobdispatcher>
+	</extension>
+
+</component>
