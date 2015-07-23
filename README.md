@@ -13,7 +13,8 @@ This module provides a `BlobDispatcher` that :
 ## Deploying
 
 Install [the Nuxeo Multi Tenant Marketplace Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-multi-tenant).
-Or manually copy the built artifacts into `$NUXEO_HOME/templates/custom/bundles/` and activate the "custom" template.
+
+Build this module and manually copy the built artifacts into `$NUXEO_HOME/templates/custom/bundles/` and activate the "custom" template.
 
 # About Nuxeo
 
